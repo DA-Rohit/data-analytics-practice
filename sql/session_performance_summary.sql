@@ -11,7 +11,7 @@ SELECT
 
   COUNT(1) AS sessions,
   SUM(IFNULL(totals.transactions, 0)) AS transactions,
-  SUM(IFNULL(totals.totalTransactionRevenue, 0)) / 1000000 AS revenue_usd
+  SUM(IFNULL(totals.totalTransactionRevenue, 0)) / 1000000 AS revenue_usd  -- converted micro usd to usd
 
 FROM `bigquery-public-data.google_analytics_sample.ga_sessions_*`
 
