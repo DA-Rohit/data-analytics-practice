@@ -11,6 +11,11 @@ Google Analytics 360 sample dataset (publicly available via BigQuery), containin
 ## Analytical Approach
 SQL (BigQuery) was used to extract and aggregate session-level and product-level datasets. Power BI was used for data modeling, exploratory analysis, and building an interactive executive dashboard with KPI tracking and product/category deep dives.
 
+## Interactive Report Walkthrough (40s)
+A short walkthrough demonstrating report interactivity, including month, device, and product category slicers across both report pages.
+
+    ▶ Watch the walkthrough (unlisted): (https://youtu.be/HSm7gUBOiBo)
+
 ## Key Insights
 
 - **Severe geographic concentration:** ~96% of total revenue comes from the United States, indicating high dependence on a single market and limited international contribution.
