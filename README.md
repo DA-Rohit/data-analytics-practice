@@ -20,9 +20,9 @@ A short walkthrough demonstrating report interactivity, including month, device,
 
 - **Severe geographic concentration:** ~96% of total revenue comes from the United States, indicating high dependence on a single market and limited international contribution.
 
-- **Product portfolio is not concentrated:** The top 10 products contribute only ~19% of total revenue across ~405 products, confirming a long-tail business rather than reliance on a few hero products.
+- **Moderate product-level concentration:** The top 10 products contribute ~19% of total revenue across ~405 products, but still a long-tail business rather than reliance on a few hero products.
 
-- **Category-level concentration is high:** The top 5 product categories account for ~84% of total revenue, showing that while individual products are diversified, category-level dependence remains significant.
+- **High Category-level concentration:** The top 5 product categories account for ~84% of total revenue, showing that while individual products are diversified, category-level dependence remains significant.
 
 - **Apparel is the primary revenue anchor:** Apparel drives both high revenue and high volume, making it the most strategically important category.
 
